@@ -5,9 +5,9 @@ import Auth from "./NavBar/Auth.jsx";
 
 function NavBar() {
   return (
-    <nav className="h[3.25rem] flex items-center justify-between px-8 ">
+    <nav className="h[3.25rem] my-2  flex items-center justify-between px-8 ">
       <Navigation />
-
+    
       <Auth />
     </nav>
   );

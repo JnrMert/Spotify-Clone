@@ -7,6 +7,7 @@ export default {
         s: "0.813rem",
       },
       colors: {
+        darkgreen: "#bed1bc",
         backdrop: "#121212",
         primary: "#1db954",
         active: "#282828",
